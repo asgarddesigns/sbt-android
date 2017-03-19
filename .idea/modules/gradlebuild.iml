@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="gradlebuild" external.linked.project.path="$MODULE_DIR$/../../gradle-build" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../gradle-build/target/scala-2.10/sbt-0.13/classes" />
+    <output-test url="file://$MODULE_DIR$/../../gradle-build/target/scala-2.10/sbt-0.13/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../gradle-build">
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/src/main/scala-2.10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/target/scala-2.10/sbt-0.13/src_managed/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/src/test/scala-2.10" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/target/scala-2.10/sbt-0.13/src_managed/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/target/scala-2.10/sbt-0.13/resource_managed/main" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gradle-build/target/scala-2.10/sbt-0.13/resource_managed/test" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gradle-build/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="model" exported="" />
+    <orderEntry type="library" name="SBT: org.typelevel:macro-compat_2.10:1.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.spire-math:json4s-support_2.10:0.6.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.spire-math:jawn-parser_2.10:0.6.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.slf4j:slf4j-api:1.7.10:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalaz:scalaz-core_2.10:7.2.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalamacros:quasiquotes_2.10:2.0.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-tools.sbinary:sbinary_2.10:0.4.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt.ivy:ivy:2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:tracking:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:testing:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:test-interface:1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:test-agent:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:tasks:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:task-system:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:serialization_2.10:0.1.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:sbt:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:run:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:relation:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:process:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:precompiled-2_9_3:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:precompiled-2_9_2:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:precompiled-2_8_2:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:persist:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:main-settings:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:main:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:logic:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:logging:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:launcher-interface:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:ivy:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:io:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:interface:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:incremental-compiler:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:cross:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:control:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:completion:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:compiler-ivy-integration:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:compiler-interface:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:compiler-integration:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:compile:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:command:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:collections:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:classpath:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:classfile:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:cache:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:apply-macro:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:api:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-sbt:actions:0.13.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-lang.modules:scala-pickling_2.10:0.10.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.10.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.10.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.scala-lang:scala-compiler:2.10.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-android:sbt-android:1.7.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-tree:5.0.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-debug-all:5.0.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-commons:5.0.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-analysis:5.0.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-all:5.0.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm:5.0.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.json4s:json4s-core_2.10:3.2.10:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.json4s:json4s-ast_2.10:3.2.10:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.javassist:javassist:3.20.0-GA:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.jacoco:org.jacoco.report:0.7.5.201505241946:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.jacoco:org.jacoco.core:0.7.5.201505241946:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.gradle:gradle-tooling-api:2.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.eclipse.jdt.core.compiler:ecj:4.5.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.bouncycastle:bcprov-jdk15on:1.51:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.bouncycastle:bcpkix-jdk15on:1.51:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.httpcomponents:httpmime:4.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.httpcomponents:httpcore:4.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.httpcomponents:httpclient:4.1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.commons:commons-compress:1.8.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.antlr:antlr4:4.5.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.antlr:antlr-runtime:3.5.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.antlr:antlr:3.5.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.antlr:ST4:4.0.8:jar" level="project" />
+    <orderEntry type="library" name="SBT: net.sf.kxml:kxml2:2.3.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: net.sf.jopt-simple:jopt-simple:4.9:jar" level="project" />
+    <orderEntry type="library" name="SBT: net.orfjackal.retrolambda:retrolambda:2.3.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: jline:jline:2.11:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.argonaut:argonaut_2.10:6.1a:jar" level="project" />
+    <orderEntry type="library" name="SBT: commons-logging:commons-logging:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: commons-io:commons-io:2.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: commons-codec:commons-codec:1.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: com.thoughtworks.paranamer:paranamer:2.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.squareup:javawriter:2.5.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: com.jcraft:jsch:0.1.46:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.intellij:annotations:12.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.hanhuy.sbt:bintray-update-checker_2.10:0.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.googlecode.juniversalchardet:juniversalchardet:1.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.protobuf:protobuf-java:2.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.jimfs:jimfs:1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.guava:guava:18.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.code.gson:gson:2.2.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.code.findbugs:jsr305:3.0.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.julien-truffaut:monocle-macro_2.10:1.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.julien-truffaut:monocle-core_2.10:1.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.lint:lint-checks:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.lint:lint-api:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.lint:lint:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.layoutlib:layoutlib-api:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.jill:jill-api:0.10.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.jack:jack-api:0.11.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.external.lombok:lombok-ast:0.2.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.external.com-intellij:uast:145.597.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.ddms:ddmlib:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.build:transform-api:2.0.0-deprecated-use-gradle-api:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.build:manifest-merger:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.build:gradle-core:2.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.build:gradle-api:2.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.build:builder-test-api:2.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.build:builder-model:2.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.build:builder:2.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.analytics-library:tracker:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.analytics-library:shared:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools.analytics-library:protos:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools:sdklib:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools:sdk-common:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools:repository:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools:dvlib:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools:common:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.tools:annotations:25.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.databinding:compilerCommon:2.2.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.android.databinding:baseLibrary:2.2.0:jar" level="project" />
+  </component>
+</module>

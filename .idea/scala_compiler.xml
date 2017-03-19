@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="sbt-android,gradlebuild">
+      <option name="deprecationWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:clippy:colors=true" />
+        <parameter value="-Xlint" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.softwaremill.clippy/plugin_2.10/jars/plugin_2.10-0.5.0-bundle.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 2" modules="model,gradle">
+      <parameters>
+        <parameter value="-P:clippy:colors=true" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.softwaremill.clippy/plugin_2.10/jars/plugin_2.10-0.5.0-bundle.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

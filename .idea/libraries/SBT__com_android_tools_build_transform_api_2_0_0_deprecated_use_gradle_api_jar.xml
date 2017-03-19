@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.android.tools.build:transform-api:2.0.0-deprecated-use-gradle-api:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.android.tools.build/transform-api/jars/transform-api-2.0.0-deprecated-use-gradle-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.android.tools.build/transform-api/srcs/transform-api-2.0.0-deprecated-use-gradle-api-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

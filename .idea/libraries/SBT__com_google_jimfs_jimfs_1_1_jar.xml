@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.google.jimfs:jimfs:1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.jimfs/jimfs/bundles/jimfs-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.jimfs/jimfs/srcs/jimfs-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

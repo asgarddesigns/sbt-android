@@ -14,8 +14,7 @@ public class MainActivities {
     public ActivityTestRule<MainActivity> activityRule =
             new ActivityTestRule(MainActivity.class);
     @Test
-    public void getActivity() {
-        assertNotNull(activityRule.getActivity());
-        assertTrue(activityRule.getActivity() instanceof MainActivity);
+    public void getActivityFlavor1Debug() {
+        assertEquals(activityRule.getActivity().getString(R.string.app_name), "Flavor1DebugActivity");
     }
 }

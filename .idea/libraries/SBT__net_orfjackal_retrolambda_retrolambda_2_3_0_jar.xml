@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: net.orfjackal.retrolambda:retrolambda:2.3.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.orfjackal.retrolambda/retrolambda/jars/retrolambda-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.orfjackal.retrolambda/retrolambda/srcs/retrolambda-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,3 +1,5 @@
-> android:package
-> flavor1/android:test
-> flavor1/android:uninstall
+> flavor1-release
+> flavor1-debug
+> flavor2-release
+> flavor2-debug
+> "variant flavor1 release" android:test
